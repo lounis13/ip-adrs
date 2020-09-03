@@ -1,0 +1,16 @@
+monserveur.chezmoi.fr 192.168.0.1
+monserveur7.chezmoi.fr 192.168.0.10
+machinejava.uvsq.fr 192.247.10.2
+jesaispas.home.com 71.35.9.1
+monserveur4.chezmoi.fr 192.168.0.4
+machineX.google.com 216.58.198.206 
+machineX.facebook.com 31.13.83.36
+monserveur5.chezmoi.fr 192.168.5.5
+machineX.fifa.com 23.62.202.238
+monserveur2.chezmoi.fr 192.168.0.25
+monserveur3.chezmoi.fr 192.168.0.3
+nomMachine.chezmoi.fr 192.168.0.217
+machineTest.uvsq.fr 192.45.10.1
+machinebibl.uvsq.fr 192.47.10.2
+testmachine.java.com 142.14.8.9
+helloWorld.chezmoi.fr 192.1.10.2
